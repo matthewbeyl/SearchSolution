@@ -1,4 +1,4 @@
-#Search Solution
+# Search Solution
 
 A static HTML mock-up of a proposed search solution.
 
